@@ -1,0 +1,1018 @@
+[
+  {
+    "claim": "The Poynter Institute",
+    "rating": "Unrated",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/factchecks/"
+  },
+  {
+    "claim": "Menu",
+    "rating": "Unrated",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/factchecks/#"
+  },
+  {
+    "claim": "Donate",
+    "rating": "Unrated",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/factchecks/membership/"
+  },
+  {
+    "claim": "California",
+    "rating": "Unrated",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/factchecks/california/"
+  },
+  {
+    "claim": "Florida",
+    "rating": "Unrated",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/factchecks/florida/"
+  },
+  {
+    "claim": "Iowa",
+    "rating": "Unrated",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/factchecks/iowa/"
+  },
+  {
+    "claim": "Michigan",
+    "rating": "Unrated",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/factchecks/michigan/"
+  },
+  {
+    "claim": "New Hampshire",
+    "rating": "Unrated",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/factchecks/new-hampshire/"
+  },
+  {
+    "claim": "New York",
+    "rating": "Unrated",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/factchecks/new-york/"
+  },
+  {
+    "claim": "North Carolina",
+    "rating": "Unrated",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/factchecks/north-carolina/"
+  },
+  {
+    "claim": "Pennsylvania",
+    "rating": "Unrated",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/factchecks/pennsylvania/"
+  },
+  {
+    "claim": "Texas",
+    "rating": "Unrated",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/factchecks/texas/"
+  },
+  {
+    "claim": "West Virginia",
+    "rating": "Unrated",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/factchecks/west-virginia/"
+  },
+  {
+    "claim": "Wisconsin",
+    "rating": "Unrated",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/factchecks/wisconsin/"
+  },
+  {
+    "claim": "All Issues",
+    "rating": "Unrated",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/factchecks/issues/"
+  },
+  {
+    "claim": "Online hoaxes",
+    "rating": "Unrated",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/factchecks/factchecks/list/?speaker_type=SOCIAL"
+  },
+  {
+    "claim": "Coronavirus",
+    "rating": "Unrated",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/factchecks/coronavirus/"
+  },
+  {
+    "claim": "Health Care",
+    "rating": "Unrated",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/factchecks/health-check/"
+  },
+  {
+    "claim": "Immigration",
+    "rating": "Unrated",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/factchecks/immigration/"
+  },
+  {
+    "claim": "Extremism",
+    "rating": "Unrated",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/article/2022/jun/09/political-extremism-public-square-resource-journal/"
+  },
+  {
+    "claim": "Taxes",
+    "rating": "Unrated",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/factchecks/taxes/"
+  },
+  {
+    "claim": "Marijuana",
+    "rating": "Unrated",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/factchecks/marijuana/"
+  },
+  {
+    "claim": "Environment",
+    "rating": "Unrated",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/factchecks/environment/"
+  },
+  {
+    "claim": "Crime",
+    "rating": "Unrated",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/factchecks/crime/"
+  },
+  {
+    "claim": "Guns",
+    "rating": "Unrated",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/factchecks/guns/"
+  },
+  {
+    "claim": "Foreign Policy",
+    "rating": "Unrated",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/factchecks/foreign-policy/"
+  },
+  {
+    "claim": "LGBTQ+",
+    "rating": "Unrated",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/factchecks/lgbtq/"
+  },
+  {
+    "claim": "Donald Trump",
+    "rating": "Unrated",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/factchecks/personalities/donald-trump/"
+  },
+  {
+    "claim": "JD Vance",
+    "rating": "Unrated",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/factchecks/personalities/jd-vance/"
+  },
+  {
+    "claim": "Mitch McConnell",
+    "rating": "Unrated",
+    "publisher": "PolitiFact",
+    "url": "https://www.politifact.com/factchecks/personalities/mitch-mcconnell/"
+  },
+  {
+    "claim": "Skip to main content",
+    "rating": "Unrated",
+    "publisher": "FactCheck.org",
+    "url": "https://www.factcheck.org/#main"
+  },
+  {
+    "claim": "FactCheck.org®",
+    "rating": "Unrated",
+    "publisher": "FactCheck.org",
+    "url": "https://www.factcheck.org/"
+  },
+  {
+    "claim": "FactCheck.org®",
+    "rating": "Unrated",
+    "publisher": "FactCheck.org",
+    "url": "https://www.factcheck.org/"
+  },
+  {
+    "claim": "Home",
+    "rating": "Unrated",
+    "publisher": "FactCheck.org",
+    "url": "https://www.factcheck.org"
+  },
+  {
+    "claim": "Articles",
+    "rating": "Unrated",
+    "publisher": "FactCheck.org",
+    "url": "https://www.factcheck.org/#"
+  },
+  {
+    "claim": "FactCheck Posts",
+    "rating": "Unrated",
+    "publisher": "FactCheck.org",
+    "url": "https://www.factcheck.org/the-factcheck-wire/"
+  },
+  {
+    "claim": "SciCheck",
+    "rating": "Unrated",
+    "publisher": "FactCheck.org",
+    "url": "https://www.factcheck.org/scicheck/"
+  },
+  {
+    "claim": "Debunking Viral Claims",
+    "rating": "Unrated",
+    "publisher": "FactCheck.org",
+    "url": "https://www.factcheck.org/fake-news/"
+  },
+  {
+    "claim": "En Español",
+    "rating": "Unrated",
+    "publisher": "FactCheck.org",
+    "url": "https://www.factcheck.org/es/en-espanol/"
+  },
+  {
+    "claim": "Ask a Question",
+    "rating": "Unrated",
+    "publisher": "FactCheck.org",
+    "url": "https://www.factcheck.org/#"
+  },
+  {
+    "claim": "Ask FactCheck",
+    "rating": "Unrated",
+    "publisher": "FactCheck.org",
+    "url": "https://www.factcheck.org/askfactcheck/"
+  },
+  {
+    "claim": "Ask SciCheck",
+    "rating": "Unrated",
+    "publisher": "FactCheck.org",
+    "url": "https://www.factcheck.org/askscicheck/"
+  },
+  {
+    "claim": "Donate",
+    "rating": "Unrated",
+    "publisher": "FactCheck.org",
+    "url": "https://giving.aws.cloud.upenn.edu/fund?fastStart=simpleForm&program=ANS&fund=602014"
+  },
+  {
+    "claim": "Topics",
+    "rating": "Unrated",
+    "publisher": "FactCheck.org",
+    "url": "https://www.factcheck.org/#"
+  },
+  {
+    "claim": "President Trump",
+    "rating": "Unrated",
+    "publisher": "FactCheck.org",
+    "url": "https://www.factcheck.org/person/donald-trump/"
+  },
+  {
+    "claim": "health",
+    "rating": "Unrated",
+    "publisher": "FactCheck.org",
+    "url": "https://www.factcheck.org/issue/health/"
+  },
+  {
+    "claim": "Coronavirus",
+    "rating": "Unrated",
+    "publisher": "FactCheck.org",
+    "url": "https://www.factcheck.org/a-guide-to-our-coronavirus-coverage/"
+  },
+  {
+    "claim": "immigration",
+    "rating": "Unrated",
+    "publisher": "FactCheck.org",
+    "url": "https://www.factcheck.org/issue/immigration/"
+  },
+  {
+    "claim": "climate change",
+    "rating": "Unrated",
+    "publisher": "FactCheck.org",
+    "url": "https://www.factcheck.org/issue/climate-change/"
+  },
+  {
+    "claim": "View All",
+    "rating": "Unrated",
+    "publisher": "FactCheck.org",
+    "url": "https://www.factcheck.org/archives/"
+  },
+  {
+    "claim": "About Us",
+    "rating": "Unrated",
+    "publisher": "FactCheck.org",
+    "url": "https://www.factcheck.org/#"
+  },
+  {
+    "claim": "Our Mission",
+    "rating": "Unrated",
+    "publisher": "FactCheck.org",
+    "url": "https://www.factcheck.org/about/our-mission/"
+  },
+  {
+    "claim": "Our Process",
+    "rating": "Unrated",
+    "publisher": "FactCheck.org",
+    "url": "https://www.factcheck.org/our-process/"
+  },
+  {
+    "claim": "Our Funding",
+    "rating": "Unrated",
+    "publisher": "FactCheck.org",
+    "url": "https://www.factcheck.org/our-funding/"
+  },
+  {
+    "claim": "Health Feedback",
+    "rating": "Unrated",
+    "publisher": "HealthFeedback.org",
+    "url": "https://healthfeedback.org/"
+  },
+  {
+    "claim": "Article Reviews",
+    "rating": "Unrated",
+    "publisher": "HealthFeedback.org",
+    "url": "https://healthfeedback.org/feedbacks/"
+  },
+  {
+    "claim": "Claim Reviews",
+    "rating": "Unrated",
+    "publisher": "HealthFeedback.org",
+    "url": "https://healthfeedback.org/claim-reviews/"
+  },
+  {
+    "claim": "Insights",
+    "rating": "Unrated",
+    "publisher": "HealthFeedback.org",
+    "url": "https://healthfeedback.org/insights/"
+  },
+  {
+    "claim": "Support us",
+    "rating": "Unrated",
+    "publisher": "HealthFeedback.org",
+    "url": "https://sciencefeedback.co/donate/"
+  },
+  {
+    "claim": "Science.Feedback.org",
+    "rating": "Unrated",
+    "publisher": "HealthFeedback.org",
+    "url": "https://science.feedback.org"
+  },
+  {
+    "claim": "Rising cancers in young adults preceded pandemic, unrelated to COVID-19 or vaccines, contrary to Patrick Soon-Shiong’s claims in Tucker Carlson interview",
+    "rating": "Unrated",
+    "publisher": "HealthFeedback.org",
+    "url": "https://healthfeedback.org/claimreview/rising-cancers-young-adults-preceded-pandemic-unrelated-covid19-vaccines-contrary-patrick-soon-shiongs-claims-tucker-carlson-interview/"
+  },
+  {
+    "claim": "Suzanne Humphries repeats debunked claims on vaccines, polio in Joe Rogan interview",
+    "rating": "Unrated",
+    "publisher": "HealthFeedback.org",
+    "url": "https://healthfeedback.org/claimreview/suzanne-humphries-debunked-claims-vaccines-polio-joe-rogan/"
+  },
+  {
+    "claim": "More Claim Reviews",
+    "rating": "Unrated",
+    "publisher": "HealthFeedback.org",
+    "url": "https://healthfeedback.org/claim-reviews/"
+  },
+  {
+    "claim": "CNN article accurately reports an increased risk of heart attack from cannabis use in young people, but lacks context on difference between absolute and relative riskCNN\"Yes, it’s true that the data suggest a “doubling” of risk for cardiac problems in cannabis users, but the article confuses “absolute” risk and “relative” risk. Those..- 21 Sep 2021",
+    "rating": "Unrated",
+    "publisher": "HealthFeedback.org",
+    "url": "https://healthfeedback.org/evaluation/cnn-article-accurately-reports-an-increased-risk-of-heart-attack-from-cannabis-use-in-young-people-but-lacks-context-on-difference-between-absolute-and-relative-risk/"
+  },
+  {
+    "claim": "Washington Times article by Robert Malone and Peter Navarro relies on inaccurate and unsubstantiated claims about virus evolution, vaccine immunity, and COVID-19 vaccine safetyWashington Times\"This article has inaccuracies throughout with a clear view to push an anti-vaccine agenda. The picture depicting a skull with eyes and nose made of coronaviruses in the shape of t..- 15 Aug 2021",
+    "rating": "Unrated",
+    "publisher": "HealthFeedback.org",
+    "url": "https://healthfeedback.org/evaluation/washington-times-article-by-robert-malone-and-peter-navarro-relies-on-inaccurate-and-unsubstantiated-claims-about-virus-evolution-vaccine-immunity-and-covid-19-vaccine-safety/"
+  },
+  {
+    "claim": "Misleading Wall Street Journal opinion piece makes the unsubstantiated claim that the U.S. will have herd immunity by April 2021Wall Street Journal\"The article’s claim that the U.S. is near herd immunity rests on two numbers: 1) the detection of infections by testing (claimed to be 10 – 25 percent) and 2) the infection fa..- 26 Feb 2021",
+    "rating": "Unrated",
+    "publisher": "HealthFeedback.org",
+    "url": "https://healthfeedback.org/evaluation/misleading-wall-street-journal-opinion-piece-makes-the-unsubstantiated-claim-that-the-u-s-will-have-herd-immunity-by-april-2021/"
+  },
+  {
+    "claim": "More Article Reviews",
+    "rating": "Unrated",
+    "publisher": "HealthFeedback.org",
+    "url": "https://healthfeedback.org/feedbacks/"
+  },
+  {
+    "claim": "who is already contributing",
+    "rating": "Unrated",
+    "publisher": "HealthFeedback.org",
+    "url": "https://healthfeedback.org/community/"
+  },
+  {
+    "claim": "Apply here",
+    "rating": "Unrated",
+    "publisher": "HealthFeedback.org",
+    "url": "https://healthfeedback.org/for-scientists/"
+  },
+  {
+    "claim": "Anti-vaccine claims about the Alexis Lorenze case mislead on vaccine risksIntroduction In September 2024, multiple social media posts began appearing on Instagram, claiming that vaccination caused a 23-year-old woman named Alexis Lorenze to become severe...- 08 Oct 2024",
+    "rating": "Unrated",
+    "publisher": "HealthFeedback.org",
+    "url": "https://healthfeedback.org/anti-vaccine-claims-alexis-lorenze-mislead-vaccine-risks/"
+  },
+  {
+    "claim": "How fears of parasites drive viral claims for detoxes and cleansesRemoving parasites from the body is a recurring theme in health misinformation on social media. These posts misleadingly suggest that parasitic infections are a common issue and th...- 24 Jun 2024",
+    "rating": "Unrated",
+    "publisher": "HealthFeedback.org",
+    "url": "https://healthfeedback.org/fears-parasites-drive-viral-claims-detoxes-cleanses/"
+  },
+  {
+    "claim": "More Insights",
+    "rating": "Unrated",
+    "publisher": "HealthFeedback.org",
+    "url": "https://healthfeedback.org/insights/"
+  },
+  {
+    "claim": "Reviewers",
+    "rating": "Unrated",
+    "publisher": "HealthFeedback.org",
+    "url": "https://healthfeedback.org/community/"
+  },
+  {
+    "claim": "Community standards",
+    "rating": "Unrated",
+    "publisher": "HealthFeedback.org",
+    "url": "https://sciencefeedback.co/community-standards/"
+  },
+  {
+    "claim": "Apply to become a reviewer",
+    "rating": "Unrated",
+    "publisher": "HealthFeedback.org",
+    "url": "https://healthfeedback.org/for-scientists/"
+  },
+  {
+    "claim": "About",
+    "rating": "Unrated",
+    "publisher": "HealthFeedback.org",
+    "url": "https://sciencefeedback.co/about/"
+  },
+  {
+    "claim": "Our method to evaluate articles",
+    "rating": "Unrated",
+    "publisher": "HealthFeedback.org",
+    "url": "https://healthfeedback.org/process/"
+  },
+  {
+    "claim": "Our method to evaluate claims",
+    "rating": "Unrated",
+    "publisher": "HealthFeedback.org",
+    "url": "https://sciencefeedback.co/claim-reviews-framework/"
+  },
+  {
+    "claim": "Contact us",
+    "rating": "Unrated",
+    "publisher": "HealthFeedback.org",
+    "url": "https://healthfeedback.org/contact-us/"
+  },
+  {
+    "claim": "Snopes Membership",
+    "rating": "Unrated",
+    "publisher": "Snopes.com",
+    "url": "https://www.snopes.com/fact-check/support/"
+  },
+  {
+    "claim": "My Profile",
+    "rating": "Unrated",
+    "publisher": "Snopes.com",
+    "url": "https://www.snopes.com/fact-check/profile/"
+  },
+  {
+    "claim": "Logout",
+    "rating": "Unrated",
+    "publisher": "Snopes.com",
+    "url": "https://www.snopes.com/fact-check/"
+  },
+  {
+    "claim": "Submit a Rumor",
+    "rating": "Unrated",
+    "publisher": "Snopes.com",
+    "url": "https://www.snopes.com/fact-check/contact/"
+  },
+  {
+    "claim": "Latest",
+    "rating": "Unrated",
+    "publisher": "Snopes.com",
+    "url": "https://www.snopes.com/fact-check/latest/"
+  },
+  {
+    "claim": "Trending",
+    "rating": "Unrated",
+    "publisher": "Snopes.com",
+    "url": "https://www.snopes.com/fact-check/top/"
+  },
+  {
+    "claim": "News & Politics",
+    "rating": "Unrated",
+    "publisher": "Snopes.com",
+    "url": "https://www.snopes.com/fact-check/category/politics/"
+  },
+  {
+    "claim": "Entertainment",
+    "rating": "Unrated",
+    "publisher": "Snopes.com",
+    "url": "https://www.snopes.com/fact-check/category/Entertainment"
+  },
+  {
+    "claim": "Fact Checks",
+    "rating": "Unrated",
+    "publisher": "Snopes.com",
+    "url": "https://www.snopes.com/fact-check/fact-check/"
+  },
+  {
+    "claim": "Quiz",
+    "rating": "Unrated",
+    "publisher": "Snopes.com",
+    "url": "https://www.snopes.com/fact-check/game/"
+  },
+  {
+    "claim": "Latest",
+    "rating": "Unrated",
+    "publisher": "Snopes.com",
+    "url": "https://www.snopes.com/fact-check/latest/"
+  },
+  {
+    "claim": "Trending",
+    "rating": "Unrated",
+    "publisher": "Snopes.com",
+    "url": "https://www.snopes.com/fact-check/top/"
+  },
+  {
+    "claim": "Fact Checks",
+    "rating": "Unrated",
+    "publisher": "Snopes.com",
+    "url": "https://www.snopes.com/fact-check/fact-checks/"
+  },
+  {
+    "claim": "News",
+    "rating": "Unrated",
+    "publisher": "Snopes.com",
+    "url": "https://www.snopes.com/fact-check/news/"
+  },
+  {
+    "claim": "Collections",
+    "rating": "Unrated",
+    "publisher": "Snopes.com",
+    "url": "https://www.snopes.com/fact-check/collections/"
+  },
+  {
+    "claim": "Contact Us",
+    "rating": "Unrated",
+    "publisher": "Snopes.com",
+    "url": "https://www.snopes.com/fact-check/contact/"
+  },
+  {
+    "claim": "Submit a Rumor",
+    "rating": "Unrated",
+    "publisher": "Snopes.com",
+    "url": "https://www.snopes.com/fact-check/contact/"
+  },
+  {
+    "claim": "Archives",
+    "rating": "Unrated",
+    "publisher": "Snopes.com",
+    "url": "https://www.snopes.com/fact-check/sitemap/"
+  },
+  {
+    "claim": "Quiz",
+    "rating": "Unrated",
+    "publisher": "Snopes.com",
+    "url": "https://www.snopes.com/fact-check/game/"
+  },
+  {
+    "claim": "FactBot",
+    "rating": "Unrated",
+    "publisher": "Snopes.com",
+    "url": "https://www.snopes.com/fact-check/factbot/"
+  },
+  {
+    "claim": "Newsletters",
+    "rating": "Unrated",
+    "publisher": "Snopes.com",
+    "url": "https://www.snopes.com/fact-check/newsletters/"
+  },
+  {
+    "claim": "About Us",
+    "rating": "Unrated",
+    "publisher": "Snopes.com",
+    "url": "https://www.snopes.com/fact-check/about/"
+  },
+  {
+    "claim": "News & Politics",
+    "rating": "Unrated",
+    "publisher": "Snopes.com",
+    "url": "https://www.snopes.com/fact-check/category/politics/"
+  },
+  {
+    "claim": "Entertainment",
+    "rating": "Unrated",
+    "publisher": "Snopes.com",
+    "url": "https://www.snopes.com/fact-check/category/entertainment/"
+  },
+  {
+    "claim": "Science & Technology",
+    "rating": "Unrated",
+    "publisher": "Snopes.com",
+    "url": "https://www.snopes.com/fact-check/category/science/"
+  },
+  {
+    "claim": "Lifestyle",
+    "rating": "Unrated",
+    "publisher": "Snopes.com",
+    "url": "https://www.snopes.com/fact-check/category/lifestyle/"
+  },
+  {
+    "claim": "Snopes Membership",
+    "rating": "Unrated",
+    "publisher": "Snopes.com",
+    "url": "https://www.snopes.com/fact-check/support/"
+  },
+  {
+    "claim": "My Profile",
+    "rating": "Unrated",
+    "publisher": "Snopes.com",
+    "url": "https://www.snopes.com/fact-check/profile/"
+  },
+  {
+    "claim": "Donald Trump",
+    "rating": "Unrated",
+    "publisher": "Snopes.com",
+    "url": "https://www.snopes.com/tag/donald-trump/"
+  },
+  {
+    "claim": "Donate",
+    "rating": "Unrated",
+    "publisher": "FullFact.org",
+    "url": "https://donate.fullfact.org/?custom_1AyN5CpE33vFLjF=web&custom_uvjhrdyekaUho5f=nav-home&custom_xNU3rxoclZ7IYfX=web-general"
+  },
+  {
+    "claim": "Fact checks",
+    "rating": "Unrated",
+    "publisher": "FullFact.org",
+    "url": "https://fullfact.org/latest/"
+  },
+  {
+    "claim": "Fact checks",
+    "rating": "Unrated",
+    "publisher": "FullFact.org",
+    "url": "https://fullfact.org/latest/"
+  },
+  {
+    "claim": "Latest",
+    "rating": "Unrated",
+    "publisher": "FullFact.org",
+    "url": "https://fullfact.org/latest/"
+  },
+  {
+    "claim": "Politics",
+    "rating": "Unrated",
+    "publisher": "FullFact.org",
+    "url": "https://fullfact.org/politics/"
+  },
+  {
+    "claim": "Health",
+    "rating": "Unrated",
+    "publisher": "FullFact.org",
+    "url": "https://fullfact.org/health/"
+  },
+  {
+    "claim": "Immigration",
+    "rating": "Unrated",
+    "publisher": "FullFact.org",
+    "url": "https://fullfact.org/immigration/"
+  },
+  {
+    "claim": "Economy, Business & Finance",
+    "rating": "Unrated",
+    "publisher": "FullFact.org",
+    "url": "https://fullfact.org/economy/"
+  },
+  {
+    "claim": "Culture & Society",
+    "rating": "Unrated",
+    "publisher": "FullFact.org",
+    "url": "https://fullfact.org/culture-and-society/"
+  },
+  {
+    "claim": "Science & Technology",
+    "rating": "Unrated",
+    "publisher": "FullFact.org",
+    "url": "https://fullfact.org/technology/"
+  },
+  {
+    "claim": "Environment",
+    "rating": "Unrated",
+    "publisher": "FullFact.org",
+    "url": "https://fullfact.org/environment/"
+  },
+  {
+    "claim": "Crime",
+    "rating": "Unrated",
+    "publisher": "FullFact.org",
+    "url": "https://fullfact.org/crime/"
+  },
+  {
+    "claim": "Education",
+    "rating": "Unrated",
+    "publisher": "FullFact.org",
+    "url": "https://fullfact.org/education/"
+  },
+  {
+    "claim": "Conflict",
+    "rating": "Unrated",
+    "publisher": "FullFact.org",
+    "url": "https://fullfact.org/conflict/"
+  },
+  {
+    "claim": "Shopping",
+    "rating": "Unrated",
+    "publisher": "FullFact.org",
+    "url": "https://fullfact.org/shopping/"
+  },
+  {
+    "claim": "Hoaxes",
+    "rating": "Unrated",
+    "publisher": "FullFact.org",
+    "url": "https://fullfact.org/hoaxes/"
+  },
+  {
+    "claim": "US",
+    "rating": "Unrated",
+    "publisher": "FullFact.org",
+    "url": "https://fullfact.org/us/"
+  },
+  {
+    "claim": "Europe",
+    "rating": "Unrated",
+    "publisher": "FullFact.org",
+    "url": "https://fullfact.org/europe/"
+  },
+  {
+    "claim": "World",
+    "rating": "Unrated",
+    "publisher": "FullFact.org",
+    "url": "https://fullfact.org/world/"
+  },
+  {
+    "claim": "Analysis",
+    "rating": "Unrated",
+    "publisher": "FullFact.org",
+    "url": "https://fullfact.org/analysis/"
+  },
+  {
+    "claim": "Analysis",
+    "rating": "Unrated",
+    "publisher": "FullFact.org",
+    "url": "https://fullfact.org/analysis/"
+  },
+  {
+    "claim": "Analysis",
+    "rating": "Unrated",
+    "publisher": "FullFact.org",
+    "url": "https://fullfact.org/analysis/"
+  },
+  {
+    "claim": "Comment",
+    "rating": "Unrated",
+    "publisher": "FullFact.org",
+    "url": "https://fullfact.org/comment/"
+  },
+  {
+    "claim": "Government Tracker",
+    "rating": "Unrated",
+    "publisher": "FullFact.org",
+    "url": "https://fullfact.org/government-tracker/"
+  },
+  {
+    "claim": "Politics Live",
+    "rating": "Unrated",
+    "publisher": "FullFact.org",
+    "url": "https://fullfact.org/live/"
+  },
+  {
+    "claim": "Policy & Impact",
+    "rating": "Unrated",
+    "publisher": "FullFact.org",
+    "url": "https://fullfact.org/policy/"
+  },
+  {
+    "claim": "Policy & Impact",
+    "rating": "Unrated",
+    "publisher": "FullFact.org",
+    "url": "https://fullfact.org/policy/"
+  },
+  {
+    "claim": "Policy & Impact",
+    "rating": "Unrated",
+    "publisher": "FullFact.org",
+    "url": "https://fullfact.org/policy/"
+  },
+  {
+    "claim": "Reports",
+    "rating": "Unrated",
+    "publisher": "FullFact.org",
+    "url": "https://fullfact.org/policy/reports/"
+  },
+  {
+    "claim": "Skip to main content",
+    "rating": "Unrated",
+    "publisher": "SciCheck",
+    "url": "https://www.factcheck.org/scicheck/#main"
+  },
+  {
+    "claim": "FactCheck.org®",
+    "rating": "Unrated",
+    "publisher": "SciCheck",
+    "url": "https://www.factcheck.org/"
+  },
+  {
+    "claim": "FactCheck.org®",
+    "rating": "Unrated",
+    "publisher": "SciCheck",
+    "url": "https://www.factcheck.org/"
+  },
+  {
+    "claim": "Home",
+    "rating": "Unrated",
+    "publisher": "SciCheck",
+    "url": "https://www.factcheck.org"
+  },
+  {
+    "claim": "Articles",
+    "rating": "Unrated",
+    "publisher": "SciCheck",
+    "url": "https://www.factcheck.org/scicheck/#"
+  },
+  {
+    "claim": "FactCheck Posts",
+    "rating": "Unrated",
+    "publisher": "SciCheck",
+    "url": "https://www.factcheck.org/the-factcheck-wire/"
+  },
+  {
+    "claim": "SciCheck",
+    "rating": "Unrated",
+    "publisher": "SciCheck",
+    "url": "https://www.factcheck.org/scicheck/"
+  },
+  {
+    "claim": "Debunking Viral Claims",
+    "rating": "Unrated",
+    "publisher": "SciCheck",
+    "url": "https://www.factcheck.org/fake-news/"
+  },
+  {
+    "claim": "En Español",
+    "rating": "Unrated",
+    "publisher": "SciCheck",
+    "url": "https://www.factcheck.org/es/en-espanol/"
+  },
+  {
+    "claim": "Ask a Question",
+    "rating": "Unrated",
+    "publisher": "SciCheck",
+    "url": "https://www.factcheck.org/scicheck/#"
+  },
+  {
+    "claim": "Ask FactCheck",
+    "rating": "Unrated",
+    "publisher": "SciCheck",
+    "url": "https://www.factcheck.org/askfactcheck/"
+  },
+  {
+    "claim": "Ask SciCheck",
+    "rating": "Unrated",
+    "publisher": "SciCheck",
+    "url": "https://www.factcheck.org/askscicheck/"
+  },
+  {
+    "claim": "Donate",
+    "rating": "Unrated",
+    "publisher": "SciCheck",
+    "url": "https://giving.aws.cloud.upenn.edu/fund?fastStart=simpleForm&program=ANS&fund=602014"
+  },
+  {
+    "claim": "Topics",
+    "rating": "Unrated",
+    "publisher": "SciCheck",
+    "url": "https://www.factcheck.org/scicheck/#"
+  },
+  {
+    "claim": "President Trump",
+    "rating": "Unrated",
+    "publisher": "SciCheck",
+    "url": "https://www.factcheck.org/person/donald-trump/"
+  },
+  {
+    "claim": "health",
+    "rating": "Unrated",
+    "publisher": "SciCheck",
+    "url": "https://www.factcheck.org/issue/health/"
+  },
+  {
+    "claim": "Coronavirus",
+    "rating": "Unrated",
+    "publisher": "SciCheck",
+    "url": "https://www.factcheck.org/a-guide-to-our-coronavirus-coverage/"
+  },
+  {
+    "claim": "immigration",
+    "rating": "Unrated",
+    "publisher": "SciCheck",
+    "url": "https://www.factcheck.org/issue/immigration/"
+  },
+  {
+    "claim": "climate change",
+    "rating": "Unrated",
+    "publisher": "SciCheck",
+    "url": "https://www.factcheck.org/issue/climate-change/"
+  },
+  {
+    "claim": "View All",
+    "rating": "Unrated",
+    "publisher": "SciCheck",
+    "url": "https://www.factcheck.org/archives/"
+  },
+  {
+    "claim": "About Us",
+    "rating": "Unrated",
+    "publisher": "SciCheck",
+    "url": "https://www.factcheck.org/scicheck/#"
+  },
+  {
+    "claim": "Our Mission",
+    "rating": "Unrated",
+    "publisher": "SciCheck",
+    "url": "https://www.factcheck.org/about/our-mission/"
+  },
+  {
+    "claim": "Our Process",
+    "rating": "Unrated",
+    "publisher": "SciCheck",
+    "url": "https://www.factcheck.org/our-process/"
+  },
+  {
+    "claim": "Our Funding",
+    "rating": "Unrated",
+    "publisher": "SciCheck",
+    "url": "https://www.factcheck.org/our-funding/"
+  },
+  {
+    "title": "Reuters Fact Check",
+    "snippet": "Reuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartiality.",
+    "link": "https://www.reuters.com/fact-check/"
+  },
+  {
+    "title": "AP Fact Check - AP News",
+    "snippet": "Verify the latest news with AP Fact Check. AP fact checkers combat misinformation by debunking false and misleading claims.",
+    "link": "https://apnews.com/ap-fact-check"
+  },
+  {
+    "title": "Debunking Viral Claims Archives - FactCheck.org",
+    "snippet": "From late 2016 to early 2025, FactCheck.org was one of several organizations working with Meta to debunk misinformation shared on Meta's social media platforms.",
+    "link": "https://www.factcheck.org/fake-news/"
+  },
+  {
+    "title": "Snopes.com | The definitive fact-checking site and reference source ...",
+    "snippet": "The definitive Internet reference source for researching urban legends, folklore, myths, rumors, and misinformation.",
+    "link": "https://www.snopes.com/"
+  },
+  {
+    "title": "FactCheck.org - A Project of The Annenberg Public Policy Center",
+    "snippet": "President Donald Trump and Tulsi Gabbard, the director of national intelligence, appeared to be at odds over whether Iran was close to having a nuclear weapon, ...",
+    "link": "https://www.factcheck.org/"
+  },
+  {
+    "title": "Fact Checks | PBS News",
+    "snippet": "Experts said Trump's action could potentially lower the cost of prescription drugs, perhaps by the 30 percent to 80 percent scale Trump said, but they cautioned ...",
+    "link": "https://www.pbs.org/newshour/tag/fact-check"
+  },
+  {
+    "title": "PolitiFact",
+    "snippet": "PolitiFact is a fact-checking website that rates the accuracy of claims by elected officials and others on its Truth-O-Meter.",
+    "link": "https://www.politifact.com/"
+  },
+  {
+    "title": "Fact Checked - AAP",
+    "snippet": "Extensive research demonstrates that the MMR vaccine is safe and significantly reduces the risk of contracting measles.",
+    "link": "https://www.aap.org/en/news-room/fact-checked/?srsltid=AfmBOooTGbsYQ973HZL0waHbYFKktmn0hdu3TsOpu2xLNC-ZmCfZ4a-6"
+  },
+  {
+    "title": "Web Sites for Fact Checking - Misinformation and Disinformation ...",
+    "snippet": "Fact-checking journalism is the heart of PolitiFact. Our core principles are independence, transparency, fairness, thorough reporting and clear writing.",
+    "link": "https://library.csi.cuny.edu/misinformation/fact-checking-websites"
+  },
+  {
+    "title": "Fact-checking – News, Research and Analysis - The Conversation",
+    "snippet": "Another election brings another round of promises from politicians trying to win votes, but how many did the last government keep? It's likely more than you ...",
+    "link": "https://theconversation.com/topics/fact-checking-7041"
+  }
+]
